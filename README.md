@@ -1,4 +1,3 @@
-
 /**
  * Flit Token is created 21th November 2019 Developer @BitBD >NEXBIT.IO
  * Contract Address: 0xB351dA6ffEbd5DddD1dA037929FCf334d6B4A8D5
